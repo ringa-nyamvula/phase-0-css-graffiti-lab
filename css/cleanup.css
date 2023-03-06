@@ -1,1 +1,13 @@
-/* write your override styles here */
+
+#wall .slick#wall-tag-1,
+#wall div.slick#wall-tag-2,
+#wall .slick.wicked#wall-tag-3,
+#wall .parent #wall-tag-4,
+#wall .parent .slick#wall-tag-5,
+#wall .parent div div#wall-tag-6,
+#wall .parent div .slick#wall-tag-7 {
+  /* Override styles for the graffiti tags */
+  background-color: white;
+  color: black;
+  font-size: 16px;
+}
